@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "jed": {
+      "version": "0.5.4"
+    }
+  }
+}

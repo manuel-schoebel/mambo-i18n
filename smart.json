@@ -1,0 +1,9 @@
+{
+  "name": "mambo-i18n",
+  "description": "Localization Package for meteor based on Jed.js",
+  "homepage": "",
+  "author": "Manuel Schoebel <mail@manuel-schoebel.com>",
+  "version": "0.0.1",
+  "git": "https://github.com/DerMambo/mambo-i18n.git",
+  "packages": {}
+}
